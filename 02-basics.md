@@ -1,6 +1,6 @@
 ## 1. Getting a Git Repository
 
-### Way1: Initialize
+### 1.1 Initialize
 Turn a local directory that is currently not under version control into a Git repository:
 > `$ git init`
 
@@ -10,7 +10,7 @@ If `.` is an empty directory, try a initial commit:
 > `$ git commit -am "Initial Commit"`
 
 
-### Way2: Clone
+### 1.2 Clone
 Clone an existing Git repository from elsewhere:
 >  `$ git clone <url> repo-name`
 
