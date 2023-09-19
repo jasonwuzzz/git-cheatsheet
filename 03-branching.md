@@ -58,3 +58,4 @@ Use two snapshots pointed to by the branch tips and the common ancestor of the t
 7. Use `git add <file> to mark resolution`.
 8. `git commit` to finalize the merge commit.(create default merge-conflict commit message)
 
+###
